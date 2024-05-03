@@ -1,16 +1,27 @@
-### Hi there 👋
+# Yuuki Heissner
+i am a student at [waimea college](https://waimea.school.nz) in NZ. I love Rory Stock
 
-<!--
-**waimea-yheissner/waimea-yheissner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Intersests
+When i am not coding, I like to:
 
-Here are some ideas to get you started:
+- dap up myles
+- sleep
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My morning Routine 
+1. Alarm
+2. sleep
+3. Alarm 
+4. wake up
+5. eat 
+
+
+## Favourite Code Snipet
+
+i like to write html, especially `<head>` tags
+
+```html
+<head>
+    <title>thats crazy</title>
+</head>
+```
+![chicken](<drip chickin.png>)
